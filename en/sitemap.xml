@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-dev/en/categories/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/hugo-dev/categories/"
+                href="https://mzq23.github.io/hugo-dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-dev/en/categories/"
+                href="https://mzq23.github.io/hugo-dev/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/en/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/hugo-dev/"
+                href="https://mzq23.github.io/hugo-dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-dev/en/"
+                href="https://mzq23.github.io/hugo-dev/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/en/tags/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/hugo-dev/tags/"
+                href="https://mzq23.github.io/hugo-dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-dev/en/tags/"
+                href="https://mzq23.github.io/hugo-dev/en/tags/"
                 />
   </url>
 </urlset>

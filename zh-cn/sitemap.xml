@@ -2,112 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-dev/</loc>
-    <lastmod>2025-08-16T10:06:24+08:00</lastmod>
+    <loc>https://mzq23.github.io/hugo-dev/</loc>
+    <lastmod>2025-08-16T14:54:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-dev/en/"
+                href="https://mzq23.github.io/hugo-dev/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/hugo-dev/"
+                href="https://mzq23.github.io/hugo-dev/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/myfirstblog/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/p/ceshi/</loc>
+    <lastmod>2025-08-16T14:54:30+08:00</lastmod>
+  </url><url>
+    <loc>https://mzq23.github.io/hugo-dev/post/</loc>
+    <lastmod>2025-08-16T14:54:30+08:00</lastmod>
+  </url><url>
+    <loc>https://mzq23.github.io/hugo-dev/p/myfirstblog/</loc>
     <lastmod>2025-08-16T10:06:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/post/</loc>
-    <lastmod>2025-08-16T10:06:24+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/categories/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-dev/en/categories/"
+                href="https://mzq23.github.io/hugo-dev/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/hugo-dev/categories/"
+                href="https://mzq23.github.io/hugo-dev/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/test-chinese/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/p/test-chinese/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/page/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/archives/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/css/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/html/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/markdown/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/markdown-syntax-guide/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/syntax/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-dev/en/tags/"
+                href="https://mzq23.github.io/hugo-dev/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/hugo-dev/tags/"
+                href="https://mzq23.github.io/hugo-dev/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/themes/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/themes/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/placeholder-text/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/tag-with-whitespaces/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/test/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/test-with-whitespaces/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/text/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/math-typesetting/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/emoji/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/tags/emoji/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/emoji-support/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/p/emoji-support/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/search/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://mzq23.github.io/hugo-dev/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
   </url>
 </urlset>

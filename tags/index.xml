@@ -7,7 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>MZQ</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mzq23.github.io/hugo-dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Aug 2025 16:41:13 +0800</lastBuildDate><atom:link href="https://mzq23.github.io/hugo-dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Github</title>
+        <link>https://mzq23.github.io/hugo-dev/tags/github/</link>
+        <pubDate>Sat, 16 Aug 2025 16:41:13 +0800</pubDate>
+        
+        <guid>https://mzq23.github.io/hugo-dev/tags/github/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hugo</title>
+        <link>https://mzq23.github.io/hugo-dev/tags/hugo/</link>
+        <pubDate>Sat, 16 Aug 2025 16:41:13 +0800</pubDate>
+        
+        <guid>https://mzq23.github.io/hugo-dev/tags/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Css</title>
         <link>https://mzq23.github.io/hugo-dev/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>

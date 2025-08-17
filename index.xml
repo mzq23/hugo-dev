@@ -8,15 +8,6 @@
         <language>zh-cn</language>
         <copyright>MZQ</copyright>
         <lastBuildDate>Sun, 17 Aug 2025 16:24:09 +0800</lastBuildDate><atom:link href="https://mzq23.github.io/hugo-dev/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Example</title>
-        <link>https://mzq23.github.io/hugo-dev/p/example/</link>
-        <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
-        
-        <guid>https://mzq23.github.io/hugo-dev/p/example/</guid>
-        <description>&lt;p&gt;123&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>如何提高写作能力（测试）</title>
         <link>https://mzq23.github.io/hugo-dev/p/%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E5%86%99%E4%BD%9C%E8%83%BD%E5%8A%9B%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Sun, 17 Aug 2025 16:24:09 +0800</pubDate>
@@ -133,6 +124,18 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://mzq23.github.io/hugo-dev/p/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+        
+        <guid>https://mzq23.github.io/hugo-dev/p/%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;h1 id=&#34;123&#34;&gt;123
+&lt;/h1&gt;&lt;p&gt;123&lt;/p&gt;
+&lt;h1 id=&#34;456&#34;&gt;456
+&lt;/h1&gt;&lt;p&gt;456&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>归档</title>

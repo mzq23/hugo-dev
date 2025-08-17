@@ -52,6 +52,18 @@
 &lt;p&gt;先写起来在说。&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>测试</title>
+        <link>https://mzq23.github.io/hugo-dev/p/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+        
+        <guid>https://mzq23.github.io/hugo-dev/p/%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;h1 id=&#34;123&#34;&gt;123
+&lt;/h1&gt;&lt;p&gt;123&lt;/p&gt;
+&lt;h1 id=&#34;456&#34;&gt;456
+&lt;/h1&gt;&lt;p&gt;456&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>每日情报 on MZQ的博客</title>
+        <link>https://mzq23.github.io/hugo-dev/categories/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5/</link>
+        <description>Recent content in 每日情报 on MZQ的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>MZQ</copyright>
+        <lastBuildDate>Thu, 21 Aug 2025 09:55:24 +0800</lastBuildDate><atom:link href="https://mzq23.github.io/hugo-dev/categories/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>每日情报（模板）</title>
+        <link>https://mzq23.github.io/hugo-dev/p/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5%E6%A8%A1%E6%9D%BF/</link>
+        <pubDate>Thu, 21 Aug 2025 09:55:24 +0800</pubDate>
+        
+        <guid>https://mzq23.github.io/hugo-dev/p/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5%E6%A8%A1%E6%9D%BF/</guid>
+        <description>&lt;img src="https://mzq23.github.io/hugo-dev/p/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5%E6%A8%A1%E6%9D%BF/qingbao.png" alt="Featured image of post 每日情报（模板）" /&gt;&lt;p&gt;这是每日情报&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

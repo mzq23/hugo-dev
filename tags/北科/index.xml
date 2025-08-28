@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>每日情报 on MZQ的博客</title>
-        <link>https://mzq23.github.io/hugo-dev/categories/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5/</link>
-        <description>Recent content in 每日情报 on MZQ的博客</description>
+        <title>北科 on MZQ的博客</title>
+        <link>https://mzq23.github.io/hugo-dev/tags/%E5%8C%97%E7%A7%91/</link>
+        <description>Recent content in 北科 on MZQ的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>MZQ</copyright>
-        <lastBuildDate>Thu, 28 Aug 2025 17:36:24 +0800</lastBuildDate><atom:link href="https://mzq23.github.io/hugo-dev/categories/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Aug 2025 17:36:24 +0800</lastBuildDate><atom:link href="https://mzq23.github.io/hugo-dev/tags/%E5%8C%97%E7%A7%91/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>每日情报</title>
         <link>https://mzq23.github.io/hugo-dev/p/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5/</link>
         <pubDate>Thu, 28 Aug 2025 17:36:24 +0800</pubDate>
@@ -40,15 +40,6 @@
 &lt;p&gt;​	今天还没过完，我的初步感受是管庄虽小，五脏俱全，乍看外表平平无奇甚至破旧，但里面的配套设施是完善的，要比天理好一些（可能是由于人少😁）。&lt;/p&gt;
 &lt;p&gt;​	目前我才呆了半天不到，流露的情感可能是新奇的余波，待我细细品味几天后再做详细的汇报。&lt;/p&gt;
 &lt;p&gt;​&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>每日情报（模板）</title>
-        <link>https://mzq23.github.io/hugo-dev/p/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5%E6%A8%A1%E6%9D%BF/</link>
-        <pubDate>Thu, 21 Aug 2025 09:55:24 +0800</pubDate>
-        
-        <guid>https://mzq23.github.io/hugo-dev/p/%E6%AF%8F%E6%97%A5%E6%83%85%E6%8A%A5%E6%A8%A1%E6%9D%BF/</guid>
-        <description>&lt;img src="https://mzq23.github.io/hugo-dev/qingbao.png" alt="Featured image of post 每日情报（模板）" /&gt;&lt;p&gt;这是每日情报&lt;/p&gt;
 </description>
         </item>
         

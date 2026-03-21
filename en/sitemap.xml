@@ -5,7 +5,7 @@
     <loc>https://mzq23.github.io/hugo-dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://mzq23.github.io/hugo-dev/categories/"
                 />
     <xhtml:link
@@ -17,7 +17,7 @@
     <loc>https://mzq23.github.io/hugo-dev/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://mzq23.github.io/hugo-dev/"
                 />
     <xhtml:link
@@ -29,7 +29,7 @@
     <loc>https://mzq23.github.io/hugo-dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://mzq23.github.io/hugo-dev/tags/"
                 />
     <xhtml:link

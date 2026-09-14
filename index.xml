@@ -7,82 +7,89 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>MZQ</copyright>
-    <lastBuildDate>Sun, 31 May 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:50:26 +0800</lastBuildDate>
     <atom:link href="https://mzq23.github.io/hugo-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://mzq23.github.io/hugo-dev/p/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 14 Sep 2026 15:50:26 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/p/%E6%B5%8B%E8%AF%95/</guid>
+      <description>&lt;p&gt;测试&lt;/p&gt;</description>
+    </item>
     <item>
       <title>5月总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/5%E6%9C%88%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 31 May 2026 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/5%E6%9C%88%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;p&gt;今天是六月九号，给五月补上一个总结。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;准备在公共平台发布自己的写作，但一直没有动笔，感觉没什么可写的。&lt;/li&gt;&#xA;&lt;li&gt;五月上旬依旧是洲+健身；下旬主题是等台式&lt;/li&gt;&#xA;&lt;li&gt;在决定买台式后，笔记本在心理上转变为工作机，只有要干活或学习的时候会打开。借着这个机会，养成了去教室干活的习惯，动力之一也是我买台式的借口之一——难以忍受笔记本在工作、娱乐之间转移的繁琐，具体地说就是搬来搬去很重，拆来拆去很麻烦。&lt;/li&gt;&#xA;&lt;li&gt;相机只在车展开过一次机，其余时间一直在吃灰。&lt;/li&gt;&#xA;&lt;li&gt;健身有成效了。力量稳步增长一个等级；视觉上，肩更宽了，更撑衣服。前胸和后背也厚了点。腿有线条了，虽然看着不太明显，但触觉上还是有的；引体突破，从0到1，现在已经能稳定做两个了。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>第四周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%9B%9B%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</link>
-      <pubDate>Sun, 29 Mar 2026 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%9B%9B%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</guid>
       <description>&lt;p&gt;26.03.23-26.03.29&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;本周做了：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;看了FSF(Fate/strange Fake)，真不赖。（周一）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;重新启用显示器（周三）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;周五上午开了组会，下午参加了可计算离散整体几何结构+中电建北京院交流会&#xA;主要内容：&lt;/p&gt;</description>
     </item>
     <item>
       <title>第三周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E4%B8%89%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</link>
-      <pubDate>Sun, 22 Mar 2026 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E4%B8%89%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</guid>
       <description>&lt;p&gt;26.03.16-26.03.22&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;本周做了：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;重新锻炼一个星期多点&lt;/li&gt;&#xA;&lt;li&gt;屏幕放到下面的柜子里了，确实减少了我在宿舍的时间&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;本周想了：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;关于手汗&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。手汗有点苗头那几天我好好休息，坚持了一个星期。效果很明显，虽然还会有手汗，但没有严重到之前不戴手套就拿不住东西的地步。更准确的说是峰值下降了，但是相比之前（冬季），手汗还是多了。总的来说，出手汗的直接原因是换季，根本原因是换季时气血不足，身体虚弱；解决方法是坚持休息。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;下周要做：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;继续健身，完善前四周的“训练计划”&lt;/li&gt;&#xA;&lt;li&gt;英语加入听力&lt;/li&gt;&#xA;&lt;li&gt;完成第一次文献分享&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;3.21 日记原文&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>第二周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E4%BA%8C%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</link>
-      <pubDate>Sun, 15 Mar 2026 20:00:58 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 20:00:58 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E4%BA%8C%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</guid>
       <description>&lt;p&gt;26.03.09-26.03.15&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;本周做了：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;上课，适应刚开学的生活&lt;/li&gt;&#xA;&lt;li&gt;买了Gemini，准确地说是让别人把我拉到他的家庭组里&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;本周想了：&lt;/strong&gt;&#xA;日记、八段锦自开学以来就没能坚持住了。英语和文献阅读也没有开始。跑步也没能重拾起。&lt;/p&gt;</description>
     </item>
     <item>
       <title>寒假总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E5%AF%92%E5%81%87%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 08 Mar 2026 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E5%AF%92%E5%81%87%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;h2 id=&#34;2026121-2026224&#34;&gt;2026.1.21-2026.2.24&lt;/h2&gt;&#xA;&lt;p&gt;尝试用ai来总结，效果很好，反正是比我总结的好。&lt;/p&gt;&#xA;&lt;div align=center&gt;&lt;img src=&#34;总结_260308.png&#34; alt=&#34;总结&#34; title=&#34;总结&#34; style=&#34;zoom:100%;&#34; /&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>第一周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E4%B8%80%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</link>
-      <pubDate>Sun, 08 Mar 2026 19:37:58 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 19:37:58 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E4%B8%80%E5%91%A8%E6%80%BB%E7%BB%93-%E7%A0%94%E4%B8%80%E4%B8%8B/</guid>
       <description>&lt;p&gt;26.03.02-26.03.08&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;本周做了：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;处理开学相关事情&lt;/li&gt;&#xA;&lt;li&gt;适应学校节奏&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;本周想了：&lt;/strong&gt;&#xA;这个学期一定要过六级，不能再裸考了。文献阅读也要正式地做起来了。刚开始不必尽善尽美，但时间一定要够。&lt;/p&gt;</description>
     </item>
     <item>
       <title>第十六周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%91%A8%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 21 Dec 2025 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%91%A8%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;h2 id=&#34;第十六周总结&#34;&gt;第十六周总结&lt;/h2&gt;&#xA;&lt;p&gt;12.15-12.21&lt;/p&gt;&#xA;&lt;p&gt;本周还一次研讨会，是关于数学和ai的，导师让我们去学习一下。主要就是雁栖湖数学应用研究院的研究员和我校的数学系老师们分享自己的工作内容。大概有16个人，每人分享20分钟左右，时间是从中午到晚上。雁栖湖那边主要分享的内容集中在分形、拓扑；我校老师则是什么都有。坐了近6个小时，做到后面我已经开始神游了。现在我是觉得那些老师们是很厉害的，这种会如果经常开我肯定是受不了的，“无聊”对adhd的杀伤力比一般人要大得多。我们是上午10点左右出发的，晚上9点多回宿舍的，这一天也就这么过去了。&lt;/p&gt;</description>
     </item>
     <item>
       <title>第十五周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%91%A8%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 14 Dec 2025 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Dec 2025 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%91%A8%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;h2 id=&#34;第十五周总结128-1214&#34;&gt;第十五周总结（12.8-12.14）&lt;/h2&gt;&#xA;&lt;p&gt;周一去导师主办的产学研研讨会帮忙拍照，很累人。中午没吃碳水，下午开会时又上蹿下跳地拍照，一会就累了。所以晚上就猛吃一盘炒饭和一碗馄饨。然后就做了最错误的决定——坐校车回管庄。现在回想起来，下午累+晚饭吃的饱+没吃药=强烈晕车，基本上对我可以是定律了。虽然当时上车后感觉不对劲就立马吃药了，但为时已晚。记得上一次手脚发麻还是大三坐出租车去火车站，不过这次已经到三阶段了。这个阶段我人都有点恍惚，脑子里只有“想吐”。终于等到下了高速，我趴在路边的草丛里哇哇吐。吐完坐车还是晕，差点又坚持不住，好在快到了。最后也是极限下车，缓了一会儿就差不多了。&lt;/p&gt;</description>
     </item>
     <item>
       <title>第十四周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%91%A8%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 07 Dec 2025 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Dec 2025 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%91%A8%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;h2 id=&#34;第十四周总结121-127&#34;&gt;第十四周总结（12.1-12.7）&lt;/h2&gt;&#xA;&lt;p&gt;本周依旧是有限元和大乱斗，以及一些没什么意思的事。&lt;/p&gt;&#xA;&lt;p&gt;看了一篇文献——《模糊的边界：研究生何以既没有研究也没有生活》。写的很好也很深刻，把我心中隐隐的感觉明确分析表述了出来。&lt;/p&gt;</description>
     </item>
     <item>
       <title>第十三周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%91%A8%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 30 Nov 2025 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Nov 2025 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%91%A8%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;h2 id=&#34;第十三周总结1124-1130&#34;&gt;第十三周总结（11.24-11.30）&lt;/h2&gt;&#xA;&lt;p&gt;这几天还是挺冷的。&lt;/p&gt;&#xA;&lt;p&gt;周一的时候没课，趁着风大出去转转。为什么要趁着风大呢？主要是天气好、光照好，其次是大风天人少，我能更集中注意力。&lt;/p&gt;&#xA;&lt;p&gt;先去了前门大街。里面有一个三里河公园，沿着小河走挺舒服的。风把一切吹的很干净，物体的形态简洁明确，看着很舒服。&lt;/p&gt;</description>
     </item>
     <item>
       <title>第十二周总结</title>
       <link>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%91%A8%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 23 Nov 2025 20:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 20:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%91%A8%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;h2 id=&#34;第十二周总结1117-1123&#34;&gt;第十二周总结（11.17-11.23）&lt;/h2&gt;&#xA;&lt;p&gt;本周感觉上好像啥都没干。&lt;/p&gt;&#xA;&lt;p&gt;最美科技工作者宣讲的视频已经做完了。&lt;/p&gt;&#xA;&lt;p&gt;周一晚上做了个梦，下面是梦的总结部分：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;梦就是这样子的梦，细节和逻辑不能深究，但这其中有一些隐喻我很感兴趣。具体来说，就是“我”放弃跟着人流往前挤就能抢到的票，既想从容地拿到票，又不想跟着人挤。结果就是没抢到票。这是第一个隐喻。在没抢到票且人潮退去后，“我”依然重复地在“放票人”之间往返，这时我拿到了一位“放票人”手中的最后一张票。&lt;/p&gt;</description>
     </item>
@@ -194,9 +201,16 @@
     <item>
       <title>hugo文章上传步骤</title>
       <link>https://mzq23.github.io/hugo-dev/p/hugo%E6%96%87%E7%AB%A0%E4%B8%8A%E4%BC%A0%E6%AD%A5%E9%AA%A4/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0800</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/p/hugo%E6%96%87%E7%AB%A0%E4%B8%8A%E4%BC%A0%E6%AD%A5%E9%AA%A4/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这篇文章最早记录的是手动敲命令发布的老流程。现在简单很多：把 &lt;code&gt;.md&lt;/code&gt; 丢进&#xA;&lt;code&gt;content/_inbox/&amp;lt;分类名&amp;gt;/&lt;/code&gt;，然后双击「发布博客.bat」就行 —— 标题、日期、描述、&#xA;分类、slug 都会自动补齐，分类就是文件夹名。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mzq23.github.io/hugo-dev/_inbox/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/_inbox/readme/</guid>
+      <description>&lt;h1 id=&#34;草稿箱&#34;&gt;草稿箱&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;这里是唯一需要你动手的地方。&lt;/strong&gt; 写下 &lt;code&gt;.md&lt;/code&gt; 文件丢进来，然后双击仓库根目录的&#xA;&lt;code&gt;发布博客.bat&lt;/code&gt;，剩下的事系统全包。&lt;/p&gt;&#xA;&lt;h2 id=&#34;怎么分类&#34;&gt;怎么分类&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;分类 = 文件夹名。&lt;/strong&gt; 你在本目录下建什么子文件夹，它就算哪一类；文件夹可以多层。&lt;/p&gt;</description>
     </item>
     <item>
       <title>关于</title>

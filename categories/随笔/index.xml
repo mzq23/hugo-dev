@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on MZQ的博客</title>
+    <link>https://mzq23.github.io/hugo-dev/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on MZQ的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>MZQ</copyright>
+    <lastBuildDate>Mon, 14 Sep 2026 17:44:51 +0800</lastBuildDate>
+    <atom:link href="https://mzq23.github.io/hugo-dev/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客更新</title>
+      <link>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</link>
+      <pubDate>Mon, 14 Sep 2026 17:44:51 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</guid>
+      <description>&lt;p&gt;本次更新内容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;主题更换为 Tarski（参考陶哲轩博客）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;更新步骤整合为快捷方式 .bat ，一键更新博客&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“日期”无需手动输入，编辑完成后自动填入&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>博客更新</title>
+      <link>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Mon, 14 Sep 2026 17:44:05 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</guid>
+      <description>&lt;p&gt;本次更新内容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;主题更换为 Tarski（参考陶哲轩博客）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;更新步骤整合为快捷方式 .bat ，一键更新博客&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“日期”无需手动输入，编辑完成后自动填入&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

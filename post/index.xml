@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>MZQ</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 15:50:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:44:51 +0800</lastBuildDate>
     <atom:link href="https://mzq23.github.io/hugo-dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客更新</title>
+      <link>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</link>
+      <pubDate>Mon, 14 Sep 2026 17:44:51 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</guid>
+      <description>&lt;p&gt;本次更新内容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;主题更换为 Tarski（参考陶哲轩博客）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;更新步骤整合为快捷方式 .bat ，一键更新博客&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“日期”无需手动输入，编辑完成后自动填入&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>博客更新</title>
+      <link>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Mon, 14 Sep 2026 17:44:05 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</guid>
+      <description>&lt;p&gt;本次更新内容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;主题更换为 Tarski（参考陶哲轩博客）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;更新步骤整合为快捷方式 .bat ，一键更新博客&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“日期”无需手动输入，编辑完成后自动填入&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>2测试</title>
       <link>https://mzq23.github.io/hugo-dev/p/2%E6%B5%8B%E8%AF%95/</link>

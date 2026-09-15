@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>MZQ</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 15:50:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:44:51 +0800</lastBuildDate>
     <atom:link href="https://mzq23.github.io/hugo-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客更新</title>
+      <link>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</link>
+      <pubDate>Mon, 14 Sep 2026 17:44:51 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</guid>
+      <description>&lt;p&gt;本次更新内容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;主题更换为 Tarski（参考陶哲轩博客）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;更新步骤整合为快捷方式 .bat ，一键更新博客&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“日期”无需手动输入，编辑完成后自动填入&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>博客更新</title>
+      <link>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Mon, 14 Sep 2026 17:44:05 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/</guid>
+      <description>&lt;p&gt;本次更新内容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;主题更换为 Tarski（参考陶哲轩博客）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;更新步骤整合为快捷方式 .bat ，一键更新博客&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“日期”无需手动输入，编辑完成后自动填入&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>2测试</title>
       <link>https://mzq23.github.io/hugo-dev/p/2%E6%B5%8B%E8%AF%95/</link>
@@ -245,7 +259,7 @@
       <link>https://mzq23.github.io/hugo-dev/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mzq23.github.io/hugo-dev/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
-      <description>&lt;h2 id=&#34;常去的站点&#34;&gt;常去的站点&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; —— 代码托管与开源协作平台&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.typescriptlang.org&#34;&gt;TypeScript&lt;/a&gt; —— JavaScript 的类型化超集&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; —— 本站使用的静态站点生成器&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt; —— 本地优先的 Markdown 笔记工具&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;值得一读的博客&#34;&gt;值得一读的博客&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://terrytao.wordpress.com/&#34;&gt;陶哲轩的博客&lt;/a&gt; —— 本站主题的灵感来源&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;推荐链接&#34;&gt;推荐链接&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space.bilibili.com/32767245?spm_id_from=333.1007.0.0&#34;&gt;我的bilibili主页&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;值得一读的博客&#34;&gt;值得一读的博客&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://terrytao.wordpress.com/&#34;&gt;陶哲轩的博客&lt;/a&gt; —— 本站主题的灵感来源&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

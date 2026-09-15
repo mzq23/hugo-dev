@@ -7,13 +7,20 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>MZQ</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 15:50:26 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:34:36 +0800</lastBuildDate>
     <atom:link href="https://mzq23.github.io/hugo-dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试</title>
-      <link>https://mzq23.github.io/hugo-dev/tags/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Mon, 14 Sep 2026 15:50:26 +0800</pubDate>
-      <guid>https://mzq23.github.io/hugo-dev/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <title>本部</title>
+      <link>https://mzq23.github.io/hugo-dev/tags/%E6%9C%AC%E9%83%A8/</link>
+      <pubDate>Tue, 15 Sep 2026 15:34:36 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/tags/%E6%9C%AC%E9%83%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>研二</title>
+      <link>https://mzq23.github.io/hugo-dev/tags/%E7%A0%94%E4%BA%8C/</link>
+      <pubDate>Tue, 15 Sep 2026 15:34:36 +0800</pubDate>
+      <guid>https://mzq23.github.io/hugo-dev/tags/%E7%A0%94%E4%BA%8C/</guid>
       <description></description>
     </item>
     <item>

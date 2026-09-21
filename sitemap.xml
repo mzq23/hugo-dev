@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mzq23.github.io/hugo-dev/post/</loc>
-    <lastmod>2026-09-15T15:34:36+08:00</lastmod>
+    <lastmod>2026-09-21T09:50:58+08:00</lastmod>
+  </url><url>
+    <loc>https://mzq23.github.io/hugo-dev/categories/</loc>
+    <lastmod>2026-09-21T09:50:58+08:00</lastmod>
+  </url><url>
+    <loc>https://mzq23.github.io/hugo-dev/p/%E5%85%B3%E4%BA%8E%E5%BB%89%E4%BB%B7%E8%87%AA%E8%A1%8C%E8%BD%A6/</loc>
+    <lastmod>2026-09-21T09:50:58+08:00</lastmod>
+  </url><url>
+    <loc>https://mzq23.github.io/hugo-dev/</loc>
+    <lastmod>2026-09-21T09:50:58+08:00</lastmod>
+  </url><url>
+    <loc>https://mzq23.github.io/hugo-dev/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2026-09-21T09:50:58+08:00</lastmod>
   </url><url>
     <loc>https://mzq23.github.io/hugo-dev/tags/%E6%9C%AC%E9%83%A8/</loc>
     <lastmod>2026-09-15T15:34:36+08:00</lastmod>
@@ -14,12 +26,6 @@
     <loc>https://mzq23.github.io/hugo-dev/p/%E7%AC%AC%E4%B8%80%E5%91%A8%E6%80%BB%E7%BB%93-2026/</loc>
     <lastmod>2026-09-15T15:34:36+08:00</lastmod>
   </url><url>
-    <loc>https://mzq23.github.io/hugo-dev/categories/</loc>
-    <lastmod>2026-09-15T15:34:36+08:00</lastmod>
-  </url><url>
-    <loc>https://mzq23.github.io/hugo-dev/</loc>
-    <lastmod>2026-09-15T15:34:36+08:00</lastmod>
-  </url><url>
     <loc>https://mzq23.github.io/hugo-dev/tags/%E7%A0%94%E4%BA%8C/</loc>
     <lastmod>2026-09-15T15:34:36+08:00</lastmod>
   </url><url>
@@ -27,9 +33,6 @@
     <lastmod>2026-09-15T15:34:36+08:00</lastmod>
   </url><url>
     <loc>https://mzq23.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</loc>
-    <lastmod>2026-09-14T17:44:51+08:00</lastmod>
-  </url><url>
-    <loc>https://mzq23.github.io/hugo-dev/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-09-14T17:44:51+08:00</lastmod>
   </url><url>
     <loc>https://mzq23.github.io/hugo-dev/p/5%E6%9C%88%E6%80%BB%E7%BB%93/</loc>
